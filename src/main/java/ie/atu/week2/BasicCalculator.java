@@ -1,3 +1,6 @@
+//Billy Lis-Murphy
+//24/09/2025
+//Basic Calculator
 package ie.atu.week2;
 
 import java.util.Scanner;
@@ -28,9 +31,9 @@ public class BasicCalculator {
         {
             case "add" -> {
                 yield FirstNumber + SecondNumber;
+
+
             }
-
-
             case "subtract" -> {
                 yield FirstNumber - SecondNumber;
             }
